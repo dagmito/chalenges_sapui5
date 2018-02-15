@@ -1,0 +1,74 @@
+body{
+  	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.masthead{
+	width: 100%;
+	background-color: rgb(47,115,180);
+	padding-top: 25px;
+	padding-bottom: 50px;
+	overflow: auto;
+	color: white;
+}
+.masthead div{
+	text-align: justify;
+	float: left;
+}
+.masthead .name{
+	font-family: 'Helvetica Neue', Helvetica, Arial;
+	font-size: 3em;
+	font-weight: 700;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+}
+.masthead .skills{
+	font-family: 'Times New Roman';
+	font-size: 1.5em;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+.masthead .column1{
+	width: 60%;
+}
+.masthead .column2{
+	width: 20%;
+	font-family: 'Helvetica Neue', Helvetica, Arial;
+	padding-left: 5em;
+}
+.masthead .column2 .age{
+	padding-bottom: 1.5em;
+}
+.container{
+	padding: 0.5em 3em 5em 4.5em;
+}
+.container h2{
+	color: rgb(47,115,180);
+	text-transform: uppercase;
+	font-size: 1.5em;
+}
+.container .row1 p{
+	font-size: 20px;
+	width: 100%;
+}
+.row2 div{
+	text-align: justify;
+	float: left;
+}
+.row2 .col-1{
+	width: 50%;
+}
+.row2 .col-2{
+	width: 50%;
+}
+.row2 h4, h3{
+	color: rgb(47,115,180);
+	margin-bottom: 0px;
+	margin-top: 30px;
+}
+.row2 p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.row2 span{
+	color: black;
+	font-weight: 100;
+}
